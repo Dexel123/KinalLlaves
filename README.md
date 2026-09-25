@@ -1,4 +1,4 @@
-# PaginaLib3 - Módulo de Persistencia
+# KinalLlaves - Módulo de Persistencia
 
 Documentación técnica y configuración de la conexión a la base de datos mediante JDBC para el proyecto.
 
